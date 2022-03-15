@@ -1,3 +1,3 @@
-### Hi there I'm Prashant👋
+### Hi there, I'm Prashant👋
 ###Aspiring Full stack Developer
 
