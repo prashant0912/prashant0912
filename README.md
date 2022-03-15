@@ -5,6 +5,7 @@ Aspiring Full stack Developer
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Frontend Projects
 - 💬 I like to watch tech and play online games
+-  📫 How to reach me: aman.atg001@gmail.com
 
 
 -->
