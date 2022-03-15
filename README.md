@@ -5,7 +5,7 @@ Aspiring Full stack Developer
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Frontend Projects
 - 💬 I like to watch tech and play online games
--   Have a look on my <a href = "">Portfolio<a/>
+
 
 -->
 
