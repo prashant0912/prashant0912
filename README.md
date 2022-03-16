@@ -1,6 +1,7 @@
 ### Hi there👋, I'm Prashant
-Aspiring Full stack Developer
+
 ### About Me
+An Aspiring Full stack Developer
 - 🔭 Adaptable to learn new technologies
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate on Frontend Projects
