@@ -5,7 +5,7 @@
 An Aspiring Full stack Developer
 - 🔭 Adaptable to learn new technologies
 - 🌱 I’m currently learning React JS
-- 👯 I’m looking to collaborate on Frontend Projects
+-  I’m looking to collaborate on Frontend Projects
 - 💬 I like to watch tech and play online games
 -  📫 How to reach me: mauryaprashant98@gmail.com
 
