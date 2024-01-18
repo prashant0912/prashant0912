@@ -2,7 +2,7 @@
 <a href = "http://www.linkedin.com/in/prashant0912" target = "_blank"><img src = "https://user-images.githubusercontent.com/65214761/160228350-c0656b48-7849-4abf-862a-6ef46e6319b1.png" width = "35px"></a>
 
 ### About Me
-Frontend  Developer(React JS) 1+ year of experience
+Frontend  Developer (React JS,Next JS) 1+ year of experience
 
 - 🌱 I'm currently working at Tycho Technologies.
 - 🔭 Adaptable to learn new technologies
